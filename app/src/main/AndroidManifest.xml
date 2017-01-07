@@ -27,7 +27,10 @@
             android:value="@integer/google_play_services_version" />
 
         <activity android:name=".ProfileActivity" />
-        <activity android:name=".EditProfileActivity"></activity>
+        <activity android:name=".EditProfileActivity" />
+        <activity android:name=".VideoChatHubActivity" />
+        <activity android:name=".RemoteControlActivity" />
+        <activity android:name=".ManageFriendsActivity"></activity>
     </application>
 
 </manifest>
