@@ -58,9 +58,34 @@ public class EditProfileActivity extends Activity implements View.OnClickListene
 
         textViewUserEmail = (TextView) findViewById(R.id.textViewUserEmail);
 
-        textViewUserEmail.setText("Welcome " + user.getEmail());
+        textViewUserEmail.setText("Welcome test" + user.getEmail());
 
         buttonSaveProfile.setOnClickListener(this);
+
+
+        //update fields with the correct data from firebase
+
+
+        FirebaseDatabase.getInstance().getReference(user.getUid()).addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(DataSnapshot dataSnapshot) {
+
+                UserInformation userInformation = dataSnapshot.getValue(UserInformation.class);
+                editTextFullName.setText(userInformation.getName());
+                editTextAge.setText(Integer.toString(userInformation.getAge()));
+            }
+
+            @Override
+            public void onCancelled(DatabaseError error) {
+                // Failed to read value
+                Log.w("Read From Firebase", "Failed to read value.", error.toException());
+            }
+        });
+
+
+
+
+
     }
 
     private void saveUserProfile()
