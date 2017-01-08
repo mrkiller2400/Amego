@@ -58,7 +58,7 @@ public class EditProfileActivity extends Activity implements View.OnClickListene
 
         textViewUserEmail = (TextView) findViewById(R.id.textViewUserEmail);
 
-        textViewUserEmail.setText("Welcome test" + user.getEmail());
+        textViewUserEmail.setText("Welcome " + user.getEmail());
 
         buttonSaveProfile.setOnClickListener(this);
 
