@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_25cd6769e18fd66aa0090603d0587aff9e7012d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_e0034ddcfa7e7d8bae9d85cde3b07ab62f08c4d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_6af3085b2519dadf0594f1aaaaa269b3ae822c0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_3011acee4e510e7704457cae0574aab36f4eafbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_162319cee458fe467c5ff2544bc6bd9d84543367\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="872d16e3e2acfded48fcea3f70214f3653a6dca1">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cfd7b9792a53dc8fde43479cd555c7d2f2307679\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1a7ffaddfebc642fed3371f2561a41581068c14">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_faef32be91ff9d8fd7da78dccb374285d2eaf049\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_b1a47100610bd545ac49d153989d77c25c5b8890\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_b801ba368d650d978de8f2289b24bb7784f69433\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_26c6d469b144f069b34df70ec0c9f822c1a7b102\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_82b208fced54d7b2ae8ad333bc0294a041b273bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_69c7e251aba81a2fd7f866fd9715e792423a0a1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_a4073d3f185cfcbbd403808c297d471ca18fcecb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_36d98fd43a775591a7c8b2681961b0ed9f42a509\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_657cefe1943d7e2ea058d6990766e93cdc68a5a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_313bb74242ece774af191d30c3a4033886aabb37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_763558a05ebdb4d3e0e302eefec566fc7c0ab1a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_83662036eb51a7fa14aa696dfac8ca59014a85d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_bd6f4a1a70766cb60ea3818b25c680e8aa8248b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_999b7c72352eb481426b05c72c5ba25f167151b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_41b21c9fb68c6b52193b16efd5457c581d8df203\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\urida\Desktop\android\Amego\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_5e7417ce4eb131b3631459f21ed5dec81acee660\classes.dex" />
+    </item>
+
+</items>

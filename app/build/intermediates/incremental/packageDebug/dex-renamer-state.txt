@@ -1,0 +1,7 @@
+#Mon Jan 09 00:02:43 IST 2017
+base.0=C\:\\Users\\urida\\Desktop\\android\\Amego\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_faef32be91ff9d8fd7da78dccb374285d2eaf049
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\urida\\Desktop\\android\\Amego\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cfd7b9792a53dc8fde43479cd555c7d2f2307679\\classes.dex
+base.1=C\:\\Users\\urida\\Desktop\\android\\Amego\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cfd7b9792a53dc8fde43479cd555c7d2f2307679
+file.0=C\:\\Users\\urida\\Desktop\\android\\Amego\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_faef32be91ff9d8fd7da78dccb374285d2eaf049\\classes.dex
